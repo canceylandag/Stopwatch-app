@@ -1,0 +1,32 @@
+body {
+  background-color: #34eb95;
+  font-family: 'Barlow', sans-serif;
+  text-shadow:   1px 1px #196619;
+  font-size: 1.5rem;
+}
+
+h1 {
+  color: white;
+}
+
+h3, h5 {
+  display: inline-block;
+  color: white;
+}
+
+.container {
+  text-align: center;
+  margin: 10%;
+}
+
+.button{
+margin: 3%;
+background:    #34eb95;
+border-radius: 11px;
+padding:       20px 45px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 26px/1 "Open Sans", sans-serif;
+text-align:    center;
+text-shadow:   1px 1px #196619;
+}
